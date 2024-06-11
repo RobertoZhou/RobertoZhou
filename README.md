@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor FullStack.
+  - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor Full Stack.
 </p>
 
 <!-- Dropdown -->
