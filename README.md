@@ -2,24 +2,26 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
+    
+<!-- GIF -->
+<img align="right" src="https://github.com/RobertoZhou/RobertoZhou/assets/141890618/6c953e36-8507-454a-9b3f-558b137a8a41">
+    
 <!-- Presentation -->
-<p>
-  - Olá 👋, sou o Roberto!
+<p align="center">
+  - Olá :wave:, sou o Roberto!
 
-  - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.
+  - :seedling: Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor Full Stack.
+  - :telescope: Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor Full Stack.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Sobre mim</summary>
+  <summary>:man_technologist: Sobre mim</summary>
 
-  - 💬 Tenho 19 anos e atualmente moro em Curitiba. Tenho conhecimento com Python, HTML, CSS e JavaScript.
+  - :speech_balloon: Tenho 19 anos e atualmente moro em Curitiba. Tenho conhecimento com Python, HTML, CSS e JavaScript.
 
-  - ⚡ Além disso, tenho uma paixão por mangá, manhua e manhwa. Acredito que isso amplia minha criatividade e minha perspectiva sobre narrativas e soluções de problemas. Nos momentos de lazer, gosto de assistir filmes e também sou um entusiasta de jogos.
+  - :zap: Além disso, tenho uma paixão por mangá, manhua e manhwa. Acredito que isso amplia minha criatividade e minha perspectiva sobre narrativas e soluções de problemas. Nos momentos de lazer, gosto de assistir filmes e também sou um entusiasta de jogos.
 </details>
 
 <!-- Links -->
@@ -28,13 +30,12 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=robertozhou&show_icons=true&theme=tokyonight)
 
-<!-- Portfolio -->
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/RobertoZhou/RobertoZhou/assets/141890618/78823818-99c0-4136-9a4f-379c9f0978ec" alt="Imagem">
 </p>
 
+<!-- Portfolio -->
 ##  Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
