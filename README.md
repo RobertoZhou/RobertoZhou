@@ -26,9 +26,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertozhou/)
 
 <!-- GithubStats -->
-<a href="https://github.com/robertozhou/github-readme-stats"><img align="center" height="150pt" src="https://github-readme-stats.vercel.app/api?username=robertozhou&show_icons=true&theme=tokyonight" alt="Roberto's github stats" /></a>
-<a href="https://github.com/robertozhou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertozhou&layout=compact&theme=tokyonight&hide_border=true" /></a>
-
+<div style="flex-basis: 30%;">
+  <a href="https://github.com/robertozhou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertozhou&show_icons=true&theme=tokyonight" alt="Roberto's github stats" /></a>
+  <a href="https://github.com/robertozhou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertozhou&layout=compact&theme=tokyonight&hide_border=true" /></a>
+</div>
 <!-- Portfolio -->
 
 <!-- GIF -->
