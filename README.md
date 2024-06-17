@@ -32,7 +32,7 @@
 <!-- Portfolio -->
 
 <!-- GIF -->
-<p align="center">
+<p>
   <img align="center" src="https://github.com/RobertoZhou/RobertoZhou/assets/141890618/78823818-99c0-4136-9a4f-379c9f0978ec" alt="Imagem">
 </p>
 
