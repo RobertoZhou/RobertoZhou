@@ -1,53 +1,64 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block;">Hello World</h1></summary>
+<h1 align="center">Hello World!!</h1>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/robertozhou/count.svg?"  />
 </div>
 
-<!-- Presentation -->
-<p>
-  - Olá 👋, sou o Roberto!
+###
 
-  - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.
+<p align="left">- Olá 👋, sou o Roberto!<br><br>🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.<br><br>🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor FullStack.</p>
 
-  - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor FullStack.
-</p>
+###
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
 
-  - 💬 Tenho 19 anos e atualmente moro em Curitiba. Tenho conhecimento com Python, HTML, CSS e JavaScript.
+###
 
-  - ⚡ Além disso, tenho uma paixão por mangá, manhua e manhwa. Acredito que isso amplia minha criatividade e minha perspectiva sobre narrativas e soluções de problemas. Nos momentos de lazer, gosto de assistir filmes e também sou um entusiasta de jogos.
-</details>
+<img align="right" height="200" src="https://camo.githubusercontent.com/10647d6475b9c5fbf0086a77bce2bf2483f083f835e5b45274cd69568dc16aa0/68747470733a2f2f6172742e706978696c6172742e636f6d2f6362393735313464383563313262612e676966"  />
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertozhou/)
+###
 
-<!-- GithubStats -->
-<a href="https://github.com/robertozhou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertozhou&show_icons=true&theme=tokyonight" alt="Roberto's github stats" /></a>
-<a href="https://github.com/robertozhou/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertozhou&layout=compact&theme=tokyonight&hide_border=false" /></a>
+<p align="center">Programming Languages</p>
 
-<!-- Portfolio -->
+###
 
-<!-- GIF -->
-<p>
-  <img align="center" src="https://github.com/RobertoZhou/RobertoZhou/assets/141890618/78823818-99c0-4136-9a4f-379c9f0978ec" alt="Imagem">
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-##  Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+###
 
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+<p align="center">Tools & Frameworks</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertozhou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertozhou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/robertozhou/robertozhou/output/snake.svg" alt="Snake animation" />
+
+###
