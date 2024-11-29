@@ -3,9 +3,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/robertozhou/count.svg?"  />
-</div>
+<img align="right" height="200" src="https://camo.githubusercontent.com/10647d6475b9c5fbf0086a77bce2bf2483f083f835e5b45274cd69568dc16aa0/68747470733a2f2f6172742e706978696c6172742e636f6d2f6362393735313464383563313262612e676966"  />
 
 ###
 
@@ -14,16 +12,21 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://br.linkedin.com/in/robertozhou" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/10647d6475b9c5fbf0086a77bce2bf2483f083f835e5b45274cd69568dc16aa0/68747470733a2f2f6172742e706978696c6172742e636f6d2f6362393735313464383563313262612e676966"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertozhou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertozhou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<p align="center">Programming Languages</p>
+<h4 align="center">Programming Languages</h4>
 
 ###
 
@@ -41,7 +44,7 @@
 
 ###
 
-<p align="center">Tools & Frameworks</p>
+<h4 align="center">Tools & Frameworks</h4>
 
 ###
 
@@ -52,8 +55,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertozhou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertozhou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
