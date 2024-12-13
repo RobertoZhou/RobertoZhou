@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- Olá 👋, sou o Roberto!<br><br>🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR.<br><br>🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor FullStack.</p>
+<p align="left">- Olá 👋, sou o Roberto!<br><br>🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR (Atualmente no 3º período)<br><br>🔭 Estou em busca da minha primeira oportunidade de estágio. Meu objetivo é me tornar um desenvolvedor FullStack.</p>
 
 ###
 
