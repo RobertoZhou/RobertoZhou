@@ -1,63 +1,80 @@
-<!-- https://profile-readme-generator.com -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=robertozhou.robertozhou&"  />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=robertozhou.robertozhou" />
+
+# 👋 Olá, eu sou Roberto Zhou
+
+### 🎓 Bacharelado em Sistemas de Informação - PUCPR
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Apaixonado+por+Tecnologia+e+Programa%C3%A7%C3%A3o+%F0%9F%92%BB" />
+</a>
+
 </div>
 
-###
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Bem-vindo+%C3%A0+minha+p%C3%A1gina+de+perfil+do+GitHub!" alt="Typing SVG" /></a>
-</div>
+---
 
-###
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/10647d6475b9c5fbf0086a77bce2bf2483f083f835e5b45274cd69568dc16aa0/68747470733a2f2f6172742e706978696c6172742e636f6d2f6362393735313464383563313262612e676966"  />
+## 🚀 Sobre mim
 
-###
+- 👋 Olá, sou **Roberto**
+- 🎓 Cursando **Sistemas de Informação** na **PUCPR**
+- 🌱 Atualmente estudando **Java, Python e Desenvolvimento Web**
+- 💡 Interessado em **Back-end, APIs e Segurança da Informação**
 
-<p align="left">- Olá 👋, sou o Roberto!<br><br>🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação na PUCPR<br></p>
+---
 
-###
-
-<br>
-<br>
+## 📊 Estatísticas
 
 <div align="center">
-  
-  <br>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=robertozhou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertozhou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertozhou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertozhou&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
-<h4 align="center">Programming Languages</h4>
-
-###
+## 💻 Linguagens
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+
 </div>
 
-###
+---
 
-<h4 align="center">Tools & Frameworks</h4>
-
-###
+## 🛠️ Ferramentas & Frameworks
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,react,spring,mysql" />
+
 </div>
 
-###
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/robertozhou">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
